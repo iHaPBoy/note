@@ -171,3 +171,8 @@ CSS 布局是前端开发的一个重要内容，在 CSS2.1 之前没有出现�
 ## 总结
 
 以上为目前主流的两栏布局方法，在不需要兼容 IE < 11 的情况下，推荐使用 `弹性盒子法 Flexbox 布局` 方法，其次推荐 `浮动法改进版一 float + margin + wrap 双标签` 方法。
+
+## 参考文献
+
+[margin系列之布局篇 - CSS探索之旅](http://blog.doyoe.com/2013/12/31/css/margin%E7%B3%BB%E5%88%97%E4%B9%8B%E5%B8%83%E5%B1%80%E7%AF%87/)
+[CSS多列布局 - 三省吾身丶丶](http://blog.guowenfh.com/2016/01/10/css-MultiColumn-layout/)
